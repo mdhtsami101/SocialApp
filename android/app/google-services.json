@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837381877510",
+    "project_id": "flutter-learn-1e3db",
+    "storage_bucket": "flutter-learn-1e3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837381877510:android:4874a5a8fcdde09ba6f887",
+        "android_client_info": {
+          "package_name": "com.example.ayhaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlynwEg-1EFTnJPUBwRWHjTfugS2L6_Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
